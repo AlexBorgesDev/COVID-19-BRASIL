@@ -2,7 +2,7 @@
   "expo": {
     "name": "COVID-19 Brasil",
     "slug": "covid-19-brasil",
-    "description": "Veja informações sobre o COVID-19 no Brasil e de outros países.",
+    "description": "Veja informações sobre o COVID-19 no Brasil e de outros países no seu celular.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,6 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "githubUrl": "https://github.com/AlexBorgesDev/COVID-19-BRASIL",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
