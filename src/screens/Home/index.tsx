@@ -64,8 +64,8 @@ const Home: React.FC = () => {
   const [stateData, setStateData] = useState<StateData | null>(null);
 
   useEffect(() => {
-    handleGetDataCountry();
     handleGetStates();
+    handleGetDataCountry();
   }, []);
 
   useEffect(() => {
@@ -86,14 +86,12 @@ const Home: React.FC = () => {
     setSearchOptions(newData);
   }
 
-  async function handleGetDataCountry(reload?: boolean) {
+  async function handleGetDataCountry() {
     setLoading(true);
-
-    if (reload) setData([]);
 
     const countries = ["brazil", "us", "china", "italy"];
 
-    const newData = [...data];
+    const newData = [];
 
     for (const country of countries) {
       const { data: responseData } = await apiCovid.get(country);
@@ -121,7 +119,7 @@ const Home: React.FC = () => {
         [{ text: "OK" }],
         { cancelable: false }
       );
-      handleGetDataCountry(true);
+      handleGetDataCountry();
       return;
     }
 
@@ -139,7 +137,7 @@ const Home: React.FC = () => {
         [{ text: "OK" }],
         { cancelable: false }
       );
-      handleGetDataCountry(true);
+      handleGetDataCountry();
       return;
     }
 
@@ -257,7 +255,7 @@ const Home: React.FC = () => {
                 style={styles.back}
                 onPress={() => {
                   setStateData(null);
-                  handleGetDataCountry(true);
+                  handleGetDataCountry();
                 }}
               >
                 <Feather name="arrow-left" size={18} color="#111" />
