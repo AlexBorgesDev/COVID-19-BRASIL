@@ -47,5 +47,5 @@ expo build:ios # generating ios file
 Acesse a documentação do [expo](https://docs.expo.io/distribution/building-standalone-apps/#if-you-choose-to-build-for-ios) para mais informações de build.
 <br>
 
-## :pencil: License
+## :pencil: Licença
 Esse projeto está sobre a licença [MIT](https://choosealicense.com/licenses/mit/). Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
