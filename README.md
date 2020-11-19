@@ -19,7 +19,7 @@ As APIs usadas no aplicativo são publicas, de terceiros. Para mais informaçõe
 
 ## :paperclip: APK Download
 <a href="https://github.com/AlexBorgesDev/COVID-19-BRASIL/releases/download/1.0/covid-19-brasil1.0.apk">
-  <img alt="Download" src=".github/github-download.svg" height="100px" >
+  <img alt="Download" src=".github/github-download.svg" height="96px" >
 </a>
 
 ## :package: Build
