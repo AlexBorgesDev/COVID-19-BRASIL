@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBorgesDev/COVID-19-BRASIL?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBorgesDev/COVID-19-BRASIL?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/AlexBorgesDev/COVID-19-BRASIL?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBorgesDev/COVID-19-BRASIL">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBorgesDev/COVID-19-BRASIL">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AlexBorgesDev/COVID-19-BRASIL">
 </p>
 
 # :bookmark: COVID-19 Brasil
