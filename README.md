@@ -17,8 +17,10 @@ As APIs usadas no aplicativo são publicas, de terceiros. Para mais informaçõe
 * [Covid19 Brazil API](https://covid19-brazil-api-docs.now.sh/) - API com dados sobre a covid-19.
 * [IBGE - API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades) - API referente às divisões político-administrativas do Brasil.
 
-## APK Download
-
+## :paperclip: APK Download
+<a href="https://github.com/AlexBorgesDev/COVID-19-BRASIL/releases/download/1.0/covid-19-brasil1.0.apk">
+  <img alt="Download" src=".github/github-download.svg" height="100px" >
+</a>
 
 ## :package: Build
 
@@ -41,5 +43,5 @@ Acesse a documentação do [expo](https://docs.expo.io/distribution/building-sta
 * [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
 * [React Native Shimmer Placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## :pencil: License
+Esse projeto está sobre a licença [MIT](https://choosealicense.com/licenses/mit/). Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
