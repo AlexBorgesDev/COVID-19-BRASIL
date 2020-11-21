@@ -10,10 +10,10 @@
 
 # :bookmark: COVID-19 Brasil
 
-Um aplicativo mobile simples, construído com o o expo, onde você pode ver informações da covid-19 no Brasil e em outros países, como também pode ver informações por estados Brasileiros.
+Um aplicativo mobile simples, construído com o expo, onde você pode ver informações da covid-19 no Brasil e em outros países, como também, ver informações por estados Brasileiros.
 ## :receipt: APIs
 
-As APIs usadas no aplicativo são publicas, de terceiros. Para mais informações, consultar a documentação.
+As APIs usadas no aplicativo são publicas, de terceiros. Para mais informações, consultar a documentação oficial.
 * [Covid19 Brazil API](https://covid19-brazil-api-docs.now.sh/) - API com dados sobre a covid-19.
 * [IBGE - API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades) - API referente às divisões político-administrativas do Brasil.
 <br>
